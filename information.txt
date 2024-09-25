@@ -1,0 +1,3 @@
+readme!
+
+this is a maths and physics website that helps students learn and does not provide distractions. it is a useful resource for teachers to use.
